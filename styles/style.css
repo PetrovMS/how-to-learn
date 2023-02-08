@@ -271,7 +271,6 @@
     margin: 0 auto 90px;
     display: flex;
     justify-content: space-between;
-    
     }
 
     .kaufman__triangle {
@@ -310,7 +309,6 @@
 
       .footer {
         background-color: #1f1f1f;
-
       }
 
       .footer__columns {
@@ -322,13 +320,11 @@
       }
 
       .footer__columns_content_copyright {
-        p
         flex-basis: 711px;
         display: flex;
         flex-direction: column;
         justify-content: space-between; 
       }
-
 
       .footer__author {
         line-height: 25px;
@@ -339,7 +335,6 @@
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        
       }
 
       .footer__column-heading {
