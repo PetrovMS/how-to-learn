@@ -4,3 +4,9 @@
 1. HTML5, CSS3.
 2. Методология БЭМ.
 3. Флексбокс-вёрстка.
+
+# GitHub Pages
+
+**GH pages**
+
+* [Ссылка на проект в GitHub Pages](https://petrovms.github.io/how-to-learn/index.html) 
